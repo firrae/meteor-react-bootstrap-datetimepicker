@@ -10,6 +10,8 @@ Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
   api.use('ecmascript');
   api.use('react@0.1.13');
+  api.use('twbs:bootstrap');
+  api.use('bootswatch:paper');
   api.use('fortawesome:fontawesome');
   api.addFiles([
     'js/bootstrap-datetimepicker.min.js',
