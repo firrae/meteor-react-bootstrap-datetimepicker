@@ -1,4 +1,5 @@
 # Project : bootstrap-datetimepicker
+# Not maintained
 ======================================
 
 [![Build Status](https://travis-ci.org/smalot/bootstrap-datetimepicker.svg?branch=master)](https://travis-ci.org/smalot/bootstrap-datetimepicker)
